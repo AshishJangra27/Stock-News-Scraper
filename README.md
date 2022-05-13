@@ -6,7 +6,6 @@ Here we're having two notebooks.
 1. Stock News Scraper : This nodebook will take the name of the company as input and give you latest news of the company as output
 2. Stock News Scraper | Customised : This notebook will take your custom portfolio stock companies name as input in a list and give output the latest news of all the companies.
 
-
 -----
 
 ### Who am I?
